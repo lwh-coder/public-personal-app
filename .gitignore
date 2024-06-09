@@ -8,6 +8,7 @@
 .env.*
 .env
 bun.lockb
+.env*
 .env.local
 # testing
 /coverage
